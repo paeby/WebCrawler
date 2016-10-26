@@ -16,19 +16,19 @@ The results are stored in a file, in this format:
 
 ########https://gocardless.com/about/jobs/inside-account-executive-spain/########
 
-*||Number of links: 60
+||Number of links: 60
 *	 - https://gocardless.com/about/jobs/head-of-operations/
 *	 - https://gocardless.com/fr-fr/
 *	 - https://gocardless.com/about/jobs/european-marketing-manager/
 *	 - ...
 
-*||Number of CSS stylesheets: 1
+||Number of CSS stylesheets: 1
 *	 - /bundle/main-83fa229a41c5c6dfb1ef.css
 
-*||Number of scripts: 1
+||Number of scripts: 1
 *	 - /bundle/main-83fa229a41c5c6dfb1ef.js
-*
-*||Number of images: 19
+
+||Number of images: 19
 *	 - /images/flags/CA-flag-icon@2x.png
 *	 - /images/flags/BE-flag-icon@2x.png
 *	 - /images/flags/NL-flag-icon@2x.png
