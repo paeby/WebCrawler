@@ -14,7 +14,7 @@ Images, scripts and css stylesheets are considered as static assets. I have work
 ### Output of the programme
 The results are stored in a file, in this format:
 
-########https://gocardless.com/about/jobs/inside-account-executive-spain/########
+---------------- https://gocardless.com/about/jobs/inside-account-executive-spain/ ----------------
 
 ||Number of links: 60
 *	 - https://gocardless.com/about/jobs/head-of-operations/
