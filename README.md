@@ -9,7 +9,7 @@ Design a web crawler outputting a site map showing the static assets of each pag
 Python is a really powerful scripting language which offers many packages to handle various programming tasks. In this situation, the main challenge is to parse the HTML file to get the desired fields. We have to find all the links to other pages from a given page and we have to find all its static assets. BeautifulSoup is a good HTML parser which facilitates searching special tags. To retrieve the pages, we can simply use the Requests HTTP library and then feed BeautifulSoup with them. I am used to program in OO languages like Java or C++ but Python seemed more approriate for this kind of problem.
 
 ### Choices of static assets
-Images, scripts and css stylesheets are considered as static assets. I have worked in a Jupyter Notebook to make some tests and design the solution. You can find it in the folder under the name "WebCrawler.ipynb" as well as a pdf. It explains each step of the design.
+Images, scripts and css stylesheets are considered as static assets. I have worked in a Jupyter Notebook to make some tests and design the solution. You can find it in the folder under the name "WebCrawler.ipynb". It explains each step of the design.
 
 ### Output of the programme
 The results are stored in a file, in this format:
