@@ -47,7 +47,7 @@ Run the script:
 
 * $ python Web_Crawler.py --url "https://gocardless.com" --dir "/Users/prisca/Documents/"
 
-The default value for the url is  "https://gocardless.com" and for the directory it is the current directory.
+The default value for the url is  "https://gocardless.com" and for the directory it is the current directory. The filenames are "sitemap.txt" and "sitemap_google.xml".
 
 Whilst the program is running, it prints in the console every new page it founds. 
 
